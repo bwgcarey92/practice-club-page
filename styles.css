@@ -6,20 +6,20 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #3d563b;
+    color: sienna;
     padding: 1em;
     text-align: center;
 }
 
 nav {
-    background-color: #555;
+    background-color: #a4ae80;
     padding: 0.5em;
     text-align: center;
 }
 
 nav a {
-    color: white;
+    color: sienna;
     text-decoration: none;
     padding: 0.5em 1em;
     margin: 0 0.5em;
@@ -30,8 +30,8 @@ section {
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #a4ae80;
+    color: sienna;
     text-align: center;
     padding: 1em;
 }
